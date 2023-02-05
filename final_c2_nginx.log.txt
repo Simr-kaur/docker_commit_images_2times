@@ -1,7 +1,0 @@
-IMAGE          CREATED                  CREATED BY                                      SIZE      COMMENT
-4ff197316692   Less than a second ago   bash                                            0B        
-4bb77604c2b2   26 seconds ago           /bin/sh -c dd if=/dev/zero of=/root/file1.tx…   524MB     
-4328e049d1ce   51 seconds ago           bash                                            0B        
-252beb6066ac   About a minute ago       /bin/sh -c apt-get -y update && apt-get -y i…   96.4MB    
-6b7dfa7e8fdb   6 weeks ago              /bin/sh -c #(nop)  CMD ["bash"]                 0B        
-<missing>      6 weeks ago              /bin/sh -c #(nop) ADD file:481dd2da6de715252…   77.8MB    
